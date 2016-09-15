@@ -1,11 +1,8 @@
 /*
  
 	Soumil Verma
-	ECE 209 - 002
-	April 25th, 2013
- 
-   UniPost.c
-   Program 3, ECE 209 2013
+   	UniPost.c
+
  */
 
 /*
