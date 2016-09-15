@@ -1,13 +1,10 @@
 /*
  
 	Soumil Verma
-   	UniPost.c
-
+	UniPost API Header File
  */
 
 /*
- UniPost API Header File
- Program 3, ECE 209 Spring 2013
 
  DO NOT MODIFY! We will use this file (as is) to test your program. If you
  change it, your program will not compile properly when we compile using the
